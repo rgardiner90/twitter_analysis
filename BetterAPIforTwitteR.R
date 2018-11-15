@@ -3,10 +3,10 @@ library(twitteR)
 
 # GREAT: http://rstatistics.net/extracting-tweets-with-r/ 
 
-consumer_key <- "JgxYi5TVnSG6DDd4qUmePSz9X"
-consumer_secret <- "aYNSmkqengscfFZDRBt2oqziM8a8St0UZ9q1QKQBKukTAOs0G9"
-access_token <- "2735714393-1eA01BxfZBm4AQuH2VAAwQmH7JP0EtUH4rdCFBw"
-access_secret <- "j8bCOWzbbHixidPaB24bPmTGOqHOiRRQBGZm9cqnRduQS"
+consumer_key <- ""
+consumer_secret <- ""
+access_token <- ""
+access_secret <- ""
 
 
 
